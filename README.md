@@ -231,6 +231,7 @@ scripts/        # build scripts
 
 PRs are welcome.  
 欢迎提交 PR。
+如果有任何问题，都可以提交到 issue 
 
 ---
 
