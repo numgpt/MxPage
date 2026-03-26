@@ -5,11 +5,21 @@
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-14-black?logo=next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-Ready-blue?logo=typescript" />
+  <img src="https://img.shields.io/badge/Prisma-ORM-2D3748?logo=prisma" />
+  <img src="https://img.shields.io/badge/Electron-Desktop-47848F?logo=electron" />
+  <img src="https://img.shields.io/badge/AI-OpenAI%20Compatible-green" />
+  <img src="https://img.shields.io/badge/License-MIT-yellow" />
+  <img src="https://img.shields.io/github/stars/ziguishian/banana-mall?style=social" />
+</p>
+
 ## ✨ Overview / 项目简介
 
 Banana Mall is an AI-native workspace designed to turn product images into fully structured, high-conversion e-commerce detail pages.
 
-Banana Mall 是一个 AI 原生的电商内容工作台，可以将商品图片转化为完整的高转化详情页。
+Banana Mall 是一个 AI 原生的电商内容工作台，可以将商品图片转化为完整的高转化详情页。由 MatrixInspire（灵矩绘境） 开发。
 
 ---
 
@@ -207,3 +217,13 @@ PRs are welcome.
 
 If you like this project, give it a star ⭐  
 如果你觉得这个项目不错，欢迎点个 Star ⭐
+
+
+<div align="center">
+
+**Made with ❤️ by [MatrixInspire](https://mxinspire.com)**
+
+让灵感落地，让回忆有形
+
+</div>
+
